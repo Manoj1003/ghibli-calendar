@@ -1,0 +1,7 @@
+C:\GhibliCalendar\publish\GhibliCalendar.exe
+C:\GhibliCalendar\publish\appsettings.Development.json
+C:\GhibliCalendar\publish\appsettings.json
+C:\GhibliCalendar\publish\GhibliCalendar.dll
+C:\GhibliCalendar\publish\GhibliCalendar.deps.json
+C:\GhibliCalendar\publish\GhibliCalendar.runtimeconfig.json
+C:\GhibliCalendar\publish\GhibliCalendar.pdb
